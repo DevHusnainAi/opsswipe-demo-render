@@ -1,0 +1,11 @@
+{
+  "fixes": "e109963ee1060f59dab4aa1b296aa8aaa1295fe5",
+  "samples": [
+    {
+      "at": "2026-09-30T11:38:07.728Z",
+      "path": "/api/price",
+      "method": "GET",
+      "status": 500
+    }
+  ]
+}
